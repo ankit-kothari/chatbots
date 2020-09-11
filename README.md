@@ -256,10 +256,10 @@ The observations as seen by the results from all the same 5 questions
 - TF sentence encoder worked the best since its encoding the sentence using attention mechanism understanidng semantics and can relate to similar word meanings and the order of words in a sentence.
 
 
-<img src="https://github.com/ankit-kothari/data_science_journey/blob/master/github_images/380f204a-61da-47b1-addd-10afc95b942e/IMG_0029.jpg" width="50%">
+<img src="https://github.com/ankit-kothari/data_science_journey/blob/master/github_images/IMG_0029.jpg" width="50%">
 
 
-<img src="https://github.com/ankit-kothari/data_science_journey/blob/master/github_images/3018b68c-42d5-4f3f-82b4-cbb96b63807b/IMG_0028.jpg" width="50%">
+<img src="https://github.com/ankit-kothari/data_science_journey/blob/master/github_images/IMG_0028.jpg" width="50%">
 
 ## Sources
 
